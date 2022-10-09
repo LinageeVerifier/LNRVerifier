@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0x60607b8A7b155613ea83431FAb6aAE85C981109f",
+  "SCAN_LINK": "https://testnet.bscscan.com/token/0x60607b8A7b155613ea83431FAb6aAE85C981109f",
+  "NETWORK": {
+    "NAME": "BSCTestnet",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "Chimps",
+  "SYMBOL": "MKY",
+  "IPFS_LINK": "https://gateway.pinata.cloud/ipfs/QmRMw9ZWHdy478xB1Ztwt44wM7o7DnyVRVSZ63nFF6c3RS/",
+  "ADDRESS_LINK": "https://testnet.bscscan.com/address/",
+  "BSC_SCAN_TX" : "https://testnet.bscscan.com/tx/",
+  "BSC_SCAN": "https://testnet.bscscan.com/token/0x60607b8A7b155613ea83431FAb6aAE85C981109f?a=",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
